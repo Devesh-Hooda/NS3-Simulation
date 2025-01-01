@@ -95,6 +95,9 @@ Run the NetAnim application from the netanim directory
 ./NetAnim
 ```
 
+### Testfile yes4.xml has been provided as a check for correct installation of the NetAnim application.
+
+
 ## Simulation Parameters
 
 - **Topology**: 4 Routers and 8 Servers.
